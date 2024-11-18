@@ -29,9 +29,9 @@ import tesla from "./company/tesla.png";
 import yarick from "./company/yarick.webp";
 import po from "./company/po.webp";
 
-import carrent from "./carrent.PNG";
-import jobit from "./jobit.PNG";
-import tripguide from "./tripguide.PNG";
+import carrent from "./carrent.png";
+import jobit from "./jobit.png";
+import tripguide from "./tripguide.png";
 
 export {
   logo,
